@@ -2,4 +2,4 @@
 
 Sequence evolution simulator for in-silico experimentation.
 
-To be updated soon.
+This is work-in-progress. To be updated soon.
